@@ -1,0 +1,70 @@
+.navbar-title1 {
+  font-size: 1,5em;
+  font-weight: bold;
+  align-items: center;
+  color: #ff7125;
+}
+
+.list-navbar {
+  color: #ff7125;
+}
+
+.jumbotron {
+  background-color: #f2f2f5;
+}
+
+.jumbotron-img {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.title-highlight {
+  color: #a1470f;
+  font-weight: bold;
+}
+
+.more-link {
+  color: #a1470f;
+  text-decoration: none;
+}
+
+.more-link:hover {
+  text-decoration: underline;
+}
+
+.divider {
+  width: 35%;
+  height: 3px;
+  background-color: #a1470f;
+}
+
+footer {
+  background-color: #f1f1f1;
+}
+
+.footer-icon {
+  width: 24px;
+  height: 24px;
+  margin: 0 8px;
+}
+
+.footer-logo {
+  height: 40px;
+}
+
+.card-img-top {
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.1rem;
+}
+
+.card-text {
+  font-size: 0.9rem;
+}
+
